@@ -1,0 +1,42 @@
+<!-- GALLERY -->
+<section id="gallery">
+  <div class="wrap">
+    <div class="section-head">
+      <div class="eyebrow">Recent Jobs</div>
+      <h2>Before &amp; after</h2>
+      <p>A look at real cleanouts and hauls from around Spokane.</p>
+    </div>
+    <div class="gallery-grid">
+      <div class="gallery-pair">
+        <div class="gallery-images">
+          <img src="assets/gallery/job1-before.svg" alt="Before photo placeholder for job 1">
+          <img src="assets/gallery/job1-after.svg" alt="After photo placeholder for job 1">
+        </div>
+        <div class="cap">Garage Cleanout — Spokane Valley</div>
+      </div>
+      <div class="gallery-pair">
+        <div class="gallery-images">
+          <img src="assets/gallery/job2-before.svg" alt="Before photo placeholder for job 2">
+          <img src="assets/gallery/job2-after.svg" alt="After photo placeholder for job 2">
+        </div>
+        <div class="cap">Estate Cleanout — Cheney</div>
+      </div>
+      <div class="gallery-pair">
+        <div class="gallery-images">
+          <img src="assets/gallery/job3-before.svg" alt="Before photo placeholder for job 3">
+          <img src="assets/gallery/job3-after.svg" alt="After photo placeholder for job 3">
+        </div>
+        <div class="cap">Office Clear-Out — Spokane</div>
+      </div>
+    </div>
+    <div class="gallery-note">
+      <strong>For Clutter Busters team:</strong> these are placeholder graphics, not real photos. To swap them in, save your before/after photos into the <code>assets/gallery/</code> folder using these exact filenames so nothing needs to change in the code:
+      <br>&nbsp;&nbsp;job1-before.jpg / job1-after.jpg (and job2-, job3- the same way)
+      <br>&nbsp;&nbsp;then update each &lt;img src&gt; in this section from <code>.svg</code> to <code>.jpg</code> (or whatever file type you use).
+      <br>Add more pairs any time by copying one <code>.gallery-pair</code> block.
+    </div>
+  </div>
+</section>
+
+
+<div class="stripe-divider"></div>
